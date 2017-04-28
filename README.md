@@ -1,1 +1,1 @@
-# lwr_traffic_animation
+# Traffic Animation for the LWR Model
